@@ -1,2 +1,2 @@
 # prototype_project
-My prototype
+My prototype [opensap](http://opensap.com) Git Web IDE demo
